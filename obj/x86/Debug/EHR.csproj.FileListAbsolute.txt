@@ -1,0 +1,215 @@
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\EHR.exe.config
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\EHR.exe
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\EHR.pdb
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\Telerik.WinControls.dll
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\Telerik.WinControls.Themes.CrystalDark.dll
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\Telerik.WinControls.Themes.FluentDark.dll
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\Telerik.WinControls.Themes.HighContrastBlack.dll
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\Telerik.WinControls.Themes.MaterialBlueGrey.dll
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\Telerik.WinControls.Themes.Office2013Dark.dll
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Dark.dll
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\Telerik.WinControls.Themes.Windows8.dll
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\TelerikCommon.dll
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\Telerik.WinControls.xml
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\obj\x86\Debug\EHR.Properties.Resources.resources
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\obj\x86\Debug\EHR.csproj.GenerateResource.cache
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\obj\x86\Debug\EHR.exe.licenses
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\obj\x86\Debug\EHR.csproj.CopyComplete
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\obj\x86\Debug\EHR.exe
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\obj\x86\Debug\EHR.pdb
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\obj\x86\Debug\EHR.LoginForm.resources
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\Google.Protobuf.dll
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\MySql.Data.dll
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\Renci.SshNet.dll
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\Google.Protobuf.xml
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\MySql.Data.xml
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\Renci.SshNet.xml
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\obj\x86\Debug\EHR.AdminForm.resources
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\Telerik.WinControls.ChartView.dll
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\Telerik.WinControls.ChartView.xml
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\obj\x86\Debug\EHR.dashboardControl.resources
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\Telerik.WinControls.GridView.dll
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\LiveCharts.dll
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\LiveCharts.pdb
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\LiveCharts.xml
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\Telerik.WinControls.Themes.Material.dll
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\obj\x86\Debug\EHR.UsersControl.resources
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\Telerik.WinControls.Themes.Office2010Silver.dll
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\Telerik.WinControls.Themes.Desert.dll
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\Telerik.WinControls.Themes.TelerikMetroBlue.dll
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Light.dll
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\obj\x86\Debug\EHR.LoginsControl.resources
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\obj\x86\Debug\EHR.DoctorControl.resources
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\cs\EHR.resources.dll
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\AForge.dll
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\AForge.Video.dll
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\zxing.dll
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\zxing.presentation.dll
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\AForge.xml
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\AForge.Video.xml
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\zxing.pdb
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\zxing.xml
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\zxing.presentation.pdb
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\zxing.presentation.xml
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\obj\x86\Debug\EHR.DoctorForm.cs.resources
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\obj\x86\Debug\cs\EHR.resources.dll
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\obj\x86\Debug\EHR.csprojAssemblyReference.cache
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\obj\x86\Debug\EHR.DoctorForm.resources
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\obj\x86\Debug\EHR.ScanControl.resources
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\obj\x86\Debug\EHR.AddPatientControl.resources
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\obj\x86\Debug\EHR.TreatControl.resources
+C:\Users\Shamal Rathnayake\source\repos\EHR\EHR\obj\x86\Debug\EHR.PatientControl.resources
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\EHR.csprojAssemblyReference.cache
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\EHR.AddPatientControl.resources
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\EHR.AdminForm.resources
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\EHR.DoctorControl.resources
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\EHR.DoctorForm.resources
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\EHR.LoginsControl.resources
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\EHR.PatientControl.resources
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\EHR.LoginForm.resources
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\EHR.Properties.Resources.resources
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\EHR.dashboardControl.resources
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\EHR.ScanControl.resources
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\EHR.TreatControl.resources
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\EHR.UsersControl.resources
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\EHR.DoctorForm.cs.resources
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\EHR.csproj.GenerateResource.cache
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\EHR.exe.licenses
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\EHR.exe
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\EHR.pdb
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\EHR.exe.config
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\EHR.exe
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\EHR.pdb
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\cs\EHR.resources.dll
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\AForge.dll
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\AForge.Video.DirectShow.dll
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\AForge.Video.dll
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\BouncyCastle.Crypto.dll
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\Google.Protobuf.dll
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\LiveCharts.dll
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\LiveCharts.WinForms.dll
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\LiveCharts.Wpf.dll
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\MySql.Data.dll
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\Renci.SshNet.dll
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\Telerik.WinControls.ChartView.dll
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\Telerik.WinControls.dll
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\Telerik.WinControls.GridView.dll
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\Telerik.WinControls.Themes.CrystalDark.dll
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\Telerik.WinControls.Themes.Desert.dll
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\Telerik.WinControls.Themes.FluentDark.dll
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\Telerik.WinControls.Themes.HighContrastBlack.dll
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\Telerik.WinControls.Themes.Material.dll
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\Telerik.WinControls.Themes.MaterialBlueGrey.dll
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\Telerik.WinControls.Themes.Office2010Silver.dll
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\Telerik.WinControls.Themes.Office2013Dark.dll
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\Telerik.WinControls.Themes.TelerikMetroBlue.dll
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Dark.dll
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Light.dll
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\Telerik.WinControls.Themes.Windows8.dll
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\Telerik.WinControls.UI.dll
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\TelerikCommon.dll
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\Ubiety.Dns.Core.dll
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\zxing.dll
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\zxing.presentation.dll
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\AForge.xml
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\AForge.Video.xml
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\AForge.Video.DirectShow.xml
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\Google.Protobuf.xml
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\LiveCharts.pdb
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\LiveCharts.xml
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\LiveCharts.WinForms.pdb
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\LiveCharts.WinForms.xml
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\LiveCharts.Wpf.pdb
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\LiveCharts.Wpf.xml
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\MySql.Data.xml
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\Renci.SshNet.xml
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\Telerik.WinControls.xml
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\Telerik.WinControls.ChartView.xml
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\Telerik.WinControls.GridView.xml
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\Telerik.WinControls.UI.xml
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\zxing.pdb
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\zxing.xml
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\zxing.presentation.pdb
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\zxing.presentation.xml
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\cs\EHR.resources.dll
+E:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\EHR.csproj.CopyComplete
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\EHR.exe.config
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\EHR.exe
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\EHR.pdb
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\EHR.AddPatientControl.resources
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\EHR.AdminForm.resources
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\EHR.DoctorControl.resources
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\EHR.DoctorForm.resources
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\EHR.LoginsControl.resources
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\EHR.PatientControl.resources
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\EHR.Properties.Resources.resources
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\EHR.dashboardControl.resources
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\EHR.ScanControl.resources
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\EHR.TreatControl.resources
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\EHR.UsersControl.resources
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\EHR.DoctorForm.cs.resources
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\EHR.csproj.GenerateResource.Cache
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\EHR.exe.licenses
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\EHR.exe
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\EHR.pdb
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\cs\EHR.resources.dll
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\AForge.dll
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\AForge.Video.DirectShow.dll
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\AForge.Video.dll
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\BouncyCastle.Crypto.dll
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\Google.Protobuf.dll
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\LiveCharts.dll
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\LiveCharts.WinForms.dll
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\LiveCharts.Wpf.dll
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\MySql.Data.dll
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\Renci.SshNet.dll
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\Telerik.WinControls.dll
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\Telerik.WinControls.UI.dll
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\TelerikCommon.dll
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\Ubiety.Dns.Core.dll
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\zxing.dll
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\zxing.presentation.dll
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\AForge.xml
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\AForge.Video.xml
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\AForge.Video.DirectShow.xml
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\Google.Protobuf.xml
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\LiveCharts.pdb
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\LiveCharts.xml
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\LiveCharts.WinForms.pdb
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\LiveCharts.WinForms.xml
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\LiveCharts.Wpf.pdb
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\LiveCharts.Wpf.xml
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\MySql.Data.xml
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\Renci.SshNet.xml
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\Telerik.WinControls.xml
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\Telerik.WinControls.UI.xml
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\zxing.pdb
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\zxing.xml
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\zxing.presentation.pdb
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\bin\Debug\zxing.presentation.xml
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\cs\EHR.resources.dll
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\EHR.csprojAssemblyReference.cache
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\EHR.csproj.CopyComplete
+G:\C# Course Work 2\Application (with visual studio solution file)\EHR\obj\x86\Debug\EHR.LoginForm.resources
